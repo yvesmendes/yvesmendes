@@ -2,7 +2,7 @@
 ### Profile
 
 ```
-  curl -v https://whois.com/yves-mendes-galvao
+  curl -v https://who.is/yves-mendes-galvao
   # HTTP/1.1 200 OK
   {
     "name": "Yves Mendes Galvão",
