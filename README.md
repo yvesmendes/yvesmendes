@@ -25,7 +25,7 @@
         {
           "title": "Bachelor degree - Information Systems",
           "university": "Faculdade Santa Maria"
-        },         
+        }         
      ]
   }
 ```
