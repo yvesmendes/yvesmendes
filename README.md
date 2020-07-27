@@ -7,7 +7,7 @@
   {
     "name": "Yves Mendes Galvão",
     "company": "Livelo",
-    "email": "yvesgalvao[at]gmail[dot]com",
+    "email": "yvesgalvao@gmail.com",
     "linkedin": "www.linkedin.com/in/yvesgalvao",
     "graduations": [
         {
