@@ -37,7 +37,11 @@
           "emitter": "Arcitura"
         },        
         {
-          "title": "PSM I - Professional Scrum Master I ",
+          "title": "PSM II - Professional Scrum Master II",
+          "emitter": "Scrum.org"
+        }, 
+        {
+          "title": "PSM I - Professional Scrum Master I",
           "emitter": "Scrum.org"
         },       
         {
